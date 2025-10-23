@@ -5,8 +5,8 @@ public class Seatworkforteen {
         Scanner input = new Scanner(System.in);
 
         Motorcycle m = new Motorcycle();
-        m.make = "kawasaki 1000cc";
-        m.color = "blue";
+        m.make = "yamaha";
+        m.color = "red";
 
         System.out.println("Type 'on' to start the engine, or 'show' to view attributes:");
         System.out.println("engine state is off");
